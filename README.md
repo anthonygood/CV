@@ -22,6 +22,7 @@ The role also involved leveraging Web3 technologies for novel transaction flows 
 * Node (NestJS)
 * Postgres, MongoDB
 * Docker, Terraform and AWS
+
 -----
 
 ### Senior Web Engineer
@@ -35,6 +36,7 @@ I contributed to a major migration project to make the desktop site mobile-frien
 * React/Redux
 * Node (Express, RxJS)
 * AWS
+
 -----
 
 ### Full Stack Developer
@@ -47,6 +49,7 @@ My Full Stack role included building new APIs and developing the React client. I
 * Node (Feathers, Express)
 * React/Redux
 * MongoDB
+
 -----
 
 ### Client Engineer
@@ -57,6 +60,7 @@ My work focused on building the infrastructure for DAZN’s cutting edge micro-f
 * Node and client JavaScript (both vanilla and React)
 * AWS, especially Lambda and S3
 * Terraform, Jenkins, BASH
+
 -----
 
 ### Full Stack Developer
@@ -68,6 +72,7 @@ Quipper’s main service comprised three single-page web apps built with Backbon
 * Javascript (Backbone, Marionette, Mocha, React, Redux, Coffeescript, ES6)
 * HTML5 + CSS3
 * MongoDB, PostgreSQL
+
 -----
 
 ### Junior Developer
