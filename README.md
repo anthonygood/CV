@@ -1,6 +1,6 @@
 # Anthony Good
 ## Full Stack Web Developer
-* [email](good.anthony@gmail.com)
+* [email](mailto:good.anthony@gmail.com)
 * [github](github.com/anthonygood)
 * [linkedin](linkedin.com/in/anthonygood)
 
