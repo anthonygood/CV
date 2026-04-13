@@ -22,6 +22,7 @@ The role also involved leveraging Web3 technologies for novel transaction flows 
 * Node (NestJS)
 * Postgres, MongoDB
 * Docker, Terraform and AWS
+-----
 
 ### Senior Web Engineer
 *Trainline*, June 2020 to July 2022
@@ -34,6 +35,7 @@ I contributed to a major migration project to make the desktop site mobile-frien
 * React/Redux
 * Node (Express, RxJS)
 * AWS
+-----
 
 ### Full Stack Developer
 *Tempo*, June 2018 to May 2020
@@ -45,6 +47,7 @@ My Full Stack role included building new APIs and developing the React client. I
 * Node (Feathers, Express)
 * React/Redux
 * MongoDB
+-----
 
 ### Client Engineer
 *DAZN*, May 2017 to June 2018
@@ -54,6 +57,7 @@ My work focused on building the infrastructure for DAZN’s cutting edge micro-f
 * Node and client JavaScript (both vanilla and React)
 * AWS, especially Lambda and S3
 * Terraform, Jenkins, BASH
+-----
 
 ### Full Stack Developer
 *Quipper*, January 2016 to April 2017
@@ -64,6 +68,7 @@ Quipper’s main service comprised three single-page web apps built with Backbon
 * Javascript (Backbone, Marionette, Mocha, React, Redux, Coffeescript, ES6)
 * HTML5 + CSS3
 * MongoDB, PostgreSQL
+-----
 
 ### Junior Developer
 *Quipper*, June 2014 to December 2015
@@ -73,7 +78,6 @@ Quipper’s main service comprised three single-page web apps built with Backbon
 * Contributed to development of teacher statistics panel
 * Main developer on News feature APIs
 * Sole developer on responsive corporate site
-
 
 ## Education & Qualifications
 2010-2011 MA, Creative Writing, University of East Anglia
