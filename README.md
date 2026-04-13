@@ -5,7 +5,7 @@
 * [linkedin](linkedin.com/in/anthonygood)
 
 ## About
-I’ve been building and maintaining production web apps for over a decade, and working in tech for even longer. I emphasise clear communication in all forms, aided by my non-tech background in English literature. I like deploying fun projects to Netlify and Github Pages when I have free time, like minesweeper, boggle and tetris!
+I’ve been building and maintaining production web apps for over a decade, and working in tech for even longer. I emphasise clear communication in all forms, aided by my non-tech background in English literature. I like deploying fun projects to Netlify and Github Pages when I have free time, like [Minesweeper](https://minesweeper-redux.netlify.app), [Boggle](https://anthonygood.github.io/boggle/) and [Tetris](https://anthonygood.github.io/tetris/)!
 
 
 ## Work Experience
